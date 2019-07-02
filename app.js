@@ -11,6 +11,10 @@ app.set('view engine', 'ejs');
 let campgrounds = [
     {name: 'Salmon Creek', image: 'https://bit.ly/320NVjo'},
     {name: 'Granite Hill', image: 'https://bit.ly/2J36iwN'},
+    {name: 'Salmon Creek', image: 'https://bit.ly/320NVjo'},
+    {name: 'Granite Hill', image: 'https://bit.ly/2J36iwN'},
+    {name: 'Salmon Creek', image: 'https://bit.ly/320NVjo'},
+    {name: 'Granite Hill', image: 'https://bit.ly/2J36iwN'},
     {name: 'Mountain Goat\'s Rest', image: 'https://bit.ly/2RQfFmc'}
 ];
 
